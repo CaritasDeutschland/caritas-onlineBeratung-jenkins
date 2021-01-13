@@ -12,7 +12,9 @@
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
     "cz-conventional-changelog": "^3.2.0",
+    "dot-prop": "^6.0.1",
     "husky": "^4.2.5",
+    "lodash": "^4.17.20",
     "standard-version": "^8.0.0"
   },
   "config": {
